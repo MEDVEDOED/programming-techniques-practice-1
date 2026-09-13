@@ -121,6 +121,16 @@ git log -1 --oneline
 7. В **Summary** введи `Complete practice 1 via GitHub Desktop`. Нажми **Commit to Suhoveev_Danila_123_321_desktop**.
 8. Нажми **Publish branch** для первой отправки. Если ветка уже опубликована, используется **Push origin**. Проверь файл в этой ветке на GitHub. [Выбор изменений, commit и push](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop).
 
+Иллюстрации из официальной документации GitHub Desktop. На них демонстрационные названия проектов и веток. На своём компьютере используй имя своей ветки; первый снимок сделан в версии для macOS.
+
+Создание ветки — кнопка **New Branch**:
+
+![Кнопка New Branch в GitHub Desktop, официальный пример](https://docs.github.com/assets/cb-26427/images/help/desktop/new-branch-button-mac.png)
+
+Первая отправка ветки — кнопка **Publish branch**:
+
+![Кнопка Publish branch в GitHub Desktop, официальный пример](https://docs.github.com/assets/cb-29970/images/help/desktop/publish-branch-button.png)
+
 ## 4. Полный цикл в Visual Studio Code
 
 1. Открой VS Code. Нажми **Ctrl+Shift+P**, введи **Git: Clone**, вставь ссылку репозитория. Выбери отдельную родительскую папку для этой копии, затем **Open**. [Клонирование и сохранение изменений в VS Code](https://code.visualstudio.com/docs/sourcecontrol/quickstart).
